@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.5.2" />
-    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="isContrastMode" value="true" />
     <option name="userId" value="-24d2308d:166a57a0ea6:-8000" />
     <option name="allowDataCollection" value="true" />
