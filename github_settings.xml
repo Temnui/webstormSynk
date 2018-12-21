@@ -3,11 +3,5 @@
     <account id="531270e9-b905-4c88-ac40-d5c152689764" name="temnui@gmail.com">
       <server host="github.com" />
     </account>
-    <account id="ed1d5cfb-9d53-4d1b-a982-9a8f6dc1cb47" name="SubspaceClub">
-      <server host="github.com" />
-    </account>
-  </component>
-  <component name="GithubSettings">
-    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
