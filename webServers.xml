@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="15462c85-73d5-459a-bf30-a08b84c85667" name="temnui.com" url="http://temnui.com">
-        <fileTransfer host="temnui.com" port="21" rootFolder="/avontest">
+        <fileTransfer host="temnui.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
