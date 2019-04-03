@@ -2,6 +2,7 @@
   <component name="TaskStorage">
     <tasks>
       <task priority="Questionable" completed="false" estimated="0" created="1554293044009" actual="0" highlighted="false" highlightingtype="Red" title="todo: maybe put this task on generator and don`t make it on client side?" description="" />
+      <task priority="Important" completed="false" estimated="0" created="1554296580009" actual="0" highlighted="false" highlightingtype="Red" title="Add all categories from start" description="When user don`t choose any of category and hit go - manualy add all categories" />
     </tasks>
   </component>
 </application>
