@@ -1,5 +1,27 @@
 <application>
   <component name="libraryTable">
+    <library name="frankenstein" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.avon.com.ua_REPSuite_static_estore_frankenstein.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.avon.com.ua_REPSuite_static_estore_frankenstein.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="generator" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_temnui.com_temp_generator.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_temnui.com_temp_generator.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
