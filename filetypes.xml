@@ -4,6 +4,7 @@
       <mapping pattern="inst" type="ECMAScript 6" />
       <mapping pattern="db" type="PLAIN_TEXT" />
       <mapping pattern="movement" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping pattern="path in teamsite" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
