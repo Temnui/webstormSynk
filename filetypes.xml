@@ -2,6 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="inst" type="ECMAScript 6" />
+      <mapping pattern="ts_loa1-6" type="HTML" />
+      <mapping pattern="nl_loa7plus" type="HTML" />
+      <mapping pattern="nl_loa1-6" type="HTML" />
       <mapping pattern="db" type="PLAIN_TEXT" />
       <mapping pattern="movement" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
