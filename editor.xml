@@ -1,11 +1,11 @@
 <application>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
   </component>
-  <component name="LiveEditOptions" chromeUpdateApp="true">
+  <component name="LiveEditOptions" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
 </application>
